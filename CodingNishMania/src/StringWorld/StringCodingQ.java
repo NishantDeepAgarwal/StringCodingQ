@@ -57,6 +57,8 @@ public class StringCodingQ {
 		System.out.println("printOnlyDupCharacter");
 		String strpod="abcdab";  //op- a b
 		
+		System.out.println("----------------kkkkkk");
+		
 		System.out.println("LastWordLength");
 		String strw="  welcome to Cloudtech  ";
 		
