@@ -32,6 +32,8 @@ public class StringCodingQ {
 		System.out.println("printRepeatedCharacters");
 		String rep="maihoonDon";
 		
+		System.out.println("karooo git ko check");
+		
 		System.out.println("ReplaceCharWithOccurence");
 		String rch="";
 		
